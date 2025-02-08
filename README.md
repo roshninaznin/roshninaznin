@@ -6,7 +6,7 @@
 📸 I love **Photography**  
 
 
-<p align="center">
+<p>
     <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram logo"/>
     </a> 
