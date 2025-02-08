@@ -5,6 +5,7 @@
 👩‍💻 Passionate about **Data Science & Software Development**  
 📸 I love **Photography**  
 
+📫 Reach me at 
 
 <p>
     <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
@@ -31,5 +32,3 @@
 - **Frameworks:** .NET, OpenGL
 - **Databases:** SQL Server, MySQL
 - **Tools:** Visual Studio, Arduino, Proteus
-
-📫 Reach me at **[ roshninaznin202@gmail.com ]**  
