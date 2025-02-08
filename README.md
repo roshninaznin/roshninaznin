@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Naznin Akter Roshmnyi! 👋 
 
-<!--
-**roshninaznin/roshninaznin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently studying **CSE at AIUB**  
+🌱 I’m learning **C#, SQL, Arduino, and OpenGL**  
+👩‍💻 Passionate about **Data Science & Software Development**  
+📸 I love **Photography**  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** C++, C#, Python, SQL
+- **Frameworks:** .NET, OpenGL
+- **Databases:** SQL Server, MySQL
+- **Tools:** Visual Studio, Arduino, Proteus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at **[Your Email]**  
+🚀 Check out my projects [here](https://github.com/roshninaznin)  
