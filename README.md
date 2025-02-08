@@ -19,6 +19,9 @@
     <a href="mailto:roshninaznin202@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=C80036" alt="Gmail logo"/>
     </a> 
+    <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo"/>
+</a>
 </p>
 
 
