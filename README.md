@@ -1,4 +1,4 @@
-# Hi, I'm Naznin Akter Roshmnyi! 👋 
+#                                   Hi, I'm Naznin!
 
 🔭 I’m currently studying **CSE at AIUB**  
 🌱 I’m learning **C#, SQL, Arduino, and OpenGL**  
