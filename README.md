@@ -10,9 +10,6 @@
     <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram logo"/>
     </a> 
-    <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook logo"/>
-    </a> 
     <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube logo"/>
     </a>
