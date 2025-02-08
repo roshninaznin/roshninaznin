@@ -1,8 +1,7 @@
 <h1 align="center"> Hi, I'm Naznin!</h1>
 
 🔭 I’m currently studying **CSE at AIUB**  
-🌱 I’m learning **C#, SQL, Arduino, and OpenGL**  
-👩‍💻 Passionate about **Data Science & Software Development**  
+🌱 I’m learning **C#, SQL, and OpenGL**  
 📸 I love **Photography**  
 
 📫 Reach me at -
