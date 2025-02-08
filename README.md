@@ -11,5 +11,5 @@
 - **Databases:** SQL Server, MySQL
 - **Tools:** Visual Studio, Arduino, Proteus
 
-📫 Reach me at **[Your Email]**  
+📫 Reach me at **[ roshninaznin202@gmail.com ]**  
 🚀 Check out my projects [here](https://github.com/roshninaznin)  
