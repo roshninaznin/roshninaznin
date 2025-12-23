@@ -24,7 +24,8 @@
 
 
 ### 🛠 Tech Stack
-- **Languages:** C++, Java, C#, Python, SQL
+- **Languages:** C++, Java, C#, Python, Javascript, PHP, SQL
+- **Web Technologies:** HTML, CSS
 - **Frameworks:** .NET, OpenGL
 - **Databases:** SQL Server, MySQL
 - **Tools:** Visual Studio, Arduino, Proteus
