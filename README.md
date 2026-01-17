@@ -1,4 +1,5 @@
 <h1 align="center"> Hi, I'm Naznin!</h1>
+<img src = "" >
 
 🔭 I’m currently studying **CSE at AIUB**  
 🌱 I’m learning **C#, SQL, and OpenGL**  
