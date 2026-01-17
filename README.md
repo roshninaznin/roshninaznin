@@ -16,16 +16,19 @@
 
 <p align="center">
   <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/>
-  </a>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="mailto:roshninaznin202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=C80036" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-C80036?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
