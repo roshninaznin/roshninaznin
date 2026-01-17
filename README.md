@@ -1,5 +1,6 @@
+<h1 align="center" > Hi, I'm Naznin!</h1>
+
 <p align="center">
-  <h1> Hi, I'm Naznin!</h1>
   <img src="https://github.com/roshninaznin/roshninaznin/blob/main/Untitled%20Project%20(3).jpg" width="250"/>
 </p>
 
