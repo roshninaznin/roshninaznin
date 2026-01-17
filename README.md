@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Naznin!</h1>
-<img src = "https://github.com/roshninaznin/roshninaznin/blob/main/Untitled%20Project%20(3).jpg" >
+<img src = "https://github.com/roshninaznin/roshninaznin/blob/main/Untitled%20Project%20(3).jpg" style="align:center" >
 
 🔭 I’m currently studying **CSE at AIUB**  
 🌱 I’m learning **C#, SQL, and OpenGL**  
