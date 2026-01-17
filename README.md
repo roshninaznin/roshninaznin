@@ -16,7 +16,7 @@
 📫 Reach me at:
 </p>
 
-<p align="center">
+<p align="center" width="400">
   <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
