@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=C80036" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
 </p>
 
