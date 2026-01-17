@@ -1,8 +1,7 @@
 <h1 align="center" style="color: purple;">Hi, I'm Naznin!</h1> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshninaznin/roshninaznin/main/Untitled%20Project%20(3).jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/roshninaznin/roshninaznin/main/Untitled%20Project%20(3).jpg" width="400"/>
 </p>
-<br><br>
 <br><br>
 
 <p align="center">
@@ -10,6 +9,8 @@
 🌱 I’m learning **C#, SQL, and OpenGL** <br>
 📸 I love **Photography**  
 </p>
+
+<br><br>
 
 <p align="center">
 📫 Reach me at:
@@ -35,6 +36,10 @@
 
 ---
 
+<br><br>
+
+<p align="center">
+
 ### 🛠 Tech Stack
 
 **Languages:**  
@@ -56,3 +61,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Proteus](https://img.shields.io/badge/Proteus-000?style=for-the-badge&logoColor=white)
+
+</p>
+
