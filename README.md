@@ -19,15 +19,15 @@
 <p align="center">
   <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
+  </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>&nbsp;&nbsp;
+  </a>
   
   <a href="mailto:roshninaznin202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C80036?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
+  </a>
   
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
@@ -43,7 +43,7 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
