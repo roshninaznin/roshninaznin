@@ -1,4 +1,4 @@
-<h1 align="center" style="color: purple;">Hi, I'm Naznin!</h1>
+<big> <h1 align="center" style="color: purple;">Hi, I'm Naznin!</h1> </big>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshninaznin/roshninaznin/main/Untitled%20Project%20(3).jpg" width="300"/>
