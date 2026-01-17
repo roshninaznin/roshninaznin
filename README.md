@@ -1,7 +1,7 @@
 <h1 align="center" > Hi, I'm Naznin!</h1>
 
 <p align="center">
-  <img src="https://github.com/roshninaznin/roshninaznin/blob/main/Untitled%20Project%20(3).jpg" width="250"/>
+  <img src="https://github.com/roshninaznin/roshninaznin/blob/main/Untitled%20Project%20(3).jpg" width="500"/>
 </p>
 
 🔭 I’m currently studying **CSE at AIUB**  
