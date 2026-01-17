@@ -9,6 +9,7 @@
 📸 I love **Photography**  
 
 📫 Reach me at -
+<div align="center">
 
 <p>
     <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
@@ -24,7 +25,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo"/>
 </a>
 </p>
-
+</div>
 
 
 ### 🛠 Tech Stack
