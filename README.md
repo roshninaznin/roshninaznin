@@ -1,4 +1,4 @@
-<h1 align="center" style="color: purple;">hi, i'm naznin!</h1> 
+<h1 align="center" >hi, i'm naznin!</h1> 
 <p align="center">
   <img src="https://github.com/roshninaznin/roshninaznin/blob/main/neo-cryptocurrency-illustration-peertopeer-blockchain-platform-mining-farm-technology_1029473-747727.avif" width="400"/>
 </p>
@@ -11,8 +11,8 @@
 </p>
 
 <br><br>
+  <h1 align="center">Reach me at: </h1> 
 <p align="center">
-  <h1>Reach me at: </h1> 
 
   <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/250px-2023_Facebook_icon.svg.png" alt="Facebook" width="24"/>
