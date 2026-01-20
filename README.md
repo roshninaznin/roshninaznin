@@ -18,7 +18,7 @@
 <p align="center">
 
   <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/250px-2023_Facebook_icon.svg.png" alt="Facebook" width="24"/>
 </a>
 
 
@@ -27,15 +27,15 @@
   </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/500px-YouTube_2024.svg.png" alt="YouTube" width="24"/>
   </a>
   
   <a href="mailto:roshninaznin202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-C80036?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="24"/>
   </a>
   
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/500px-LinkedIn_2021.svg.png" alt="LinkedIn" width="24"/>
   </a>
 </p>
 
