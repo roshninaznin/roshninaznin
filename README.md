@@ -27,11 +27,11 @@
   </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" width="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" width="30"/>
   </a>
   
   <a href="mailto:roshninaznin202@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="27"/>
   </a>
   
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
