@@ -11,7 +11,7 @@
 </p>
 
 <br><br>
-  <h1 align="center">Reach me at: </h1> 
+  <h1 align="center">Reach me at </h1> 
 <p align="center">
 
   <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank" >
