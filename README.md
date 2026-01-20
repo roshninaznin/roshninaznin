@@ -13,29 +13,24 @@
 <br><br>
 
 <p align="center">
-📫 Reach me at:
-</p>
-<p align="center">
+  <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/250px-2023_Facebook_icon.svg.png" alt="Facebook" width="24"/>
+  </a>
 
-  <a href="https://www.facebook.com/naznin.roshni.71/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/250px-2023_Facebook_icon.svg.png" alt="Facebook" width="24"/>
-</a>
-
-
-  <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
-    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" alt="Instagram" width="24"/>
+  <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" alt="Instagram" width="24"/>
   </a>
   
-  <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" width="30"/>
+  <a href="https://www.youtube.com/@naznin_roshni" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" width="30"/>
   </a>
   
-  <a href="mailto:roshninaznin202@gmail.com">
+  <a href="mailto:roshninaznin202@gmail.com" style="margin: 0 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/250px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="27"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="24"/>
+  <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png" alt="LinkedIn" width="24"/>
   </a>
 </p>
 
