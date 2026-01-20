@@ -1,4 +1,4 @@
-<h1 align="center" style="color: purple;">hello, i'm naznin!</h1> 
+<h1 align="center" style="color: purple;">hi, i'm naznin!</h1> 
 <p align="center">
   <img src="https://github.com/roshninaznin/roshninaznin/blob/main/neo-cryptocurrency-illustration-peertopeer-blockchain-platform-mining-farm-technology_1029473-747727.avif" width="400"/>
 </p>
@@ -23,7 +23,7 @@
 
 
   <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" alt="Instagram"/>
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" alt="Instagram" width="24"/>
   </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
