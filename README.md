@@ -1,6 +1,6 @@
 <h1 align="center" style="color: purple;">Hi, I'm Naznin!</h1> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshninaznin/roshninaznin/main/Untitled%20Project%20(3).jpg" width="400"/>
+  <img src="https://github.com/roshninaznin/roshninaznin/blob/main/neo-cryptocurrency-illustration-peertopeer-blockchain-platform-mining-farm-technology_1029473-747727.avif" width="400"/>
 </p>
 <br><br>
 
