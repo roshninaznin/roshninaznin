@@ -27,7 +27,7 @@
   </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/500px-YouTube_2024.svg.png" alt="YouTube" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" width="24"/>
   </a>
   
   <a href="mailto:roshninaznin202@gmail.com">
@@ -35,7 +35,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/naznin-roshni-24a0a0205/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/500px-LinkedIn_2021.svg.png" alt="LinkedIn" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="24"/>
   </a>
 </p>
 
