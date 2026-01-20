@@ -1,13 +1,13 @@
-<h1 align="center" style="color: purple;">Hi, I'm Naznin!</h1> 
+<h1 align="center" style="color: purple;">hello, i'm naznin!</h1> 
 <p align="center">
   <img src="https://github.com/roshninaznin/roshninaznin/blob/main/neo-cryptocurrency-illustration-peertopeer-blockchain-platform-mining-farm-technology_1029473-747727.avif" width="400"/>
 </p>
 <br><br>
 
 <p align="center">
-🔭 I’m currently studying **CSE at AIUB** <br>
-🌱 I’m learning **C#, SQL, and OpenGL** <br>
-📸 I love **Photography**  
+🔭 i’m currently studying **CSE at AIUB** <br>
+🌱 i’m learning **C#, SQL, and OpenGL** <br>
+📸 i love **Photography**  
 </p>
 
 <br><br>
@@ -23,7 +23,7 @@
 
 
   <a href="https://www.instagram.com/_____n.roshni.2255/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" alt="Instagram"/>
   </a>
   
   <a href="https://www.youtube.com/@naznin_roshni" target="_blank">
